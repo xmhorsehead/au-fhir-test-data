@@ -44,21 +44,4 @@ Note: Only formal releases, not snapshots for Connectathons, test events etc., a
 - Updates based on user feedback, testing event outcomes, and IG changes.
 - Continuous improvement to tooling for synthetic test data generation, supporting tooling including CI pipelines.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Documentation on Confluence for the HL7 FHIR Test Data project details the [development process](https://confluence.hl7.org/spaces/HAFWG/pages/265093726/Process+Test+Data+-+iterative+development). 

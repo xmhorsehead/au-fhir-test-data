@@ -1,6 +1,6 @@
 ## AU Core Test Data Coverage
 
-It is recommended that users of au-fhir-test-data upload the entire set of test data in the [generated folder](https://github.com/hl7au/au-fhir-test-data/tree/master/generated) and [direct-fhir-test-resources folder](https://github.com/hl7au/au-fhir-test-data/tree/master/direct-fhir-test-resources) to their target server. With that said, the current minimal set of test data from this au-fhir-test-data repo that provides test data coverage of the Must Support elements as reported below are for the following Patient ids which must include the network of all resource instances linked to these Patients e.g. referenced PractitionerRole, Organization, and Location on a patient Encounter:
+It is recommended that users of au-fhir-test-data upload the entire set of test data to their target server. With that said, the current minimal set of test data from this au-fhir-test-data repo that provides test data coverage of the Must Support elements as reported below are for the following Patient ids which must include the network of all resource instances linked to these Patients e.g. referenced PractitionerRole, Organization, and Location on a patient Encounter:
 
 | Patient.id                                |
 |:------------------------------------------|
